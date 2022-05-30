@@ -10,9 +10,9 @@
   </ul>
     
 <ul> 
-  ⌛ I am currently learning Flutter
-  📱 I want to be a mobile application developer and I want to improve myself in the digital game industry
-  📖 My interests: Robotics Technologies and Artificial Intelligence
+  ⌛ I am currently learning Flutter</li>
+  📱 I want to be a mobile application developer and I want to improve myself in the digital game industry</i>
+  📖 My interests: Robotics Technologies and Artificial Intelligence</li>
   
   
   </u>
