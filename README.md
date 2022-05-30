@@ -3,7 +3,7 @@
 <h1> Hi, I'm Semih</h1>
 
 <h3> Hello, I am computer engineering student at Atatürk University.</h3>
-<ul><b>Skills</b>
+<ul><b>Skills</b><br>
   ✨C++ , C , C# <br>
   🚀English at A2 level (I continue my education in B1)<br>
   🖥️I developed a project with html and css<br>
