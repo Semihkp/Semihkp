@@ -2,7 +2,7 @@
 
 <h1> Hi, I'm Semih</h1>
 
-<h3> Hello, I am Semih Küçükpehlivan, a computer engineering student at Atatürk University.</h3>
+<h3> Hello, I am computer engineering student at Atatürk University.</h3>
 
 <ul>
   <li>I am currently learning kotlin </li>
