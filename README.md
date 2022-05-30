@@ -7,7 +7,7 @@
   <li>C++ , C , C# </li>
   <li>A2 seviyesi İngilizce(B1 seviyesinde eğitimime devam ediyorum)</li>
   <li>I developed a project with html and css</li>
-  </u>
+  </ul>
     
 <ul> 
   <li>I am currently learning Flutter </li>
