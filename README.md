@@ -2,4 +2,4 @@
 
 <h1> Hi, I'm Semih</h1>
 
-<h3> I'm computer engineering student at Ataturk University</h3>
+<h3> Merhaba, ben Semih Küçükpehlivan Atatürk Üniversitesi'nde bilgisayar mühendisliği 2. sınıf öğrencisiyim.</h3>
