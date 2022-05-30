@@ -5,9 +5,9 @@
 <h3> Hello, I am computer engineering student at Atatürk University.</h3>
 
 <ul>
-  <li>I am currently learning kotlin </li>
+  <li>I am currently learning Flutter </li>
   <li>I want to be a mobile application developer.</li>
-  <li> </li>
+  <li>I want to develop myself in the digital game industry.</li>
   
   
   </u>
