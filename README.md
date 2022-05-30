@@ -11,7 +11,7 @@
     
 <ul> 
   <li>I am currently learning Flutter </li>
-  <li>I want to be a mobile application developer and I want to improve myself in the digital game industry</li>
+  📱I want to be a mobile application developer and I want to improve myself in the digital game industry</li>
   <li>My interests: Robotics Technologies and Artificial Intelligence</li>
   
   
