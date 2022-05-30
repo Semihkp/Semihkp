@@ -5,7 +5,7 @@
 <h3> Hello, I am computer engineering student at Atatürk University.</h3>
 <ul><b>Skills</b>
   <li>C++ , C , C# </li>
-  <li>A2 seviyesi İngilizce(B1 seviyesinde eğitimime devam ediyorum)</li>
+  <li>English at A2 level (I continue my education in B1)</li>
   <li>I developed a project with html and css</li>
   </ul>
     
