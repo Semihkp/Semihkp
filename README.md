@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Semih</h1>
 <h3 align="center">I am computer engineering student at Atatürk University.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=semihkp&label=Profile%20views&color=0e75b6&style=flat" alt="semihkp" /> </p>
 
 <ul><b>✨Skills</b><br>
 🚀 C++ , C , C# <br>
@@ -15,7 +16,6 @@
 📒 My interests: Robotics Technologies and Artificial Intelligence<br>
 </ul>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=semihkp&label=Profile%20views&color=0e75b6&style=flat" alt="semihkp" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
