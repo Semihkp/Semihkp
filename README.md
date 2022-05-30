@@ -16,6 +16,12 @@
 📒 My interests: Robotics Technologies and Artificial Intelligence<br>
 </ul>
 
+<ul><b>🍁Experiences</b><br>
+ Google Developer Students Club Core Team Member
+ TTurks Rocket Team( 7 months )
+
+</ul>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
