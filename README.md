@@ -3,6 +3,18 @@
 <h1 align="center">Hi 👋, I'm Semih</h1>
 <h3 align="center">I am computer engineering student at Atatürk University.</h3>
 
+<ul><b>✨Skills</b>
+🚀 C++ , C , C# <br>
+⚡ English at A2 level (I continue my education in B1) <br>
+🖥️ I developed a project with html and css <br>
+</ul>
+
+<ul>
+⌛ I am currently learning Flutter
+📱 I want to be a mobile application developer and I want to improve myself in the digital game industry
+📒 My interests: Robotics Technologies and Artificial Intelligence
+</ul>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=semihkp&label=Profile%20views&color=0e75b6&style=flat" alt="semihkp" /> </p>
 
 <h3 align="left">Connect with me:</h3>
