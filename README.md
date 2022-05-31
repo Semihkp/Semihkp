@@ -17,7 +17,7 @@
 </ul>
 
 <ul><b>🍁Experiences</b><br>
- Google Developer Students Club Core Team Member
+ Google Developer Students Club Core Team Member<br>
  TTurks Rocket Team( 7 months )
 
 </ul>
