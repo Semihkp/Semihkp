@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=semihkp&label=Profile%20views&color=0e75b6&style=flat" alt="semihkp" /> </p>
 
 <ul><b>✨Skills</b><br>
-🚀 C++ , C , C# <br>
+🚀 C++ , C# <br>
 ⚡ English at A2 level (I continue my education in B1) <br>
 🖥️ I developed a project with html and css <br>
 </ul>
@@ -17,7 +17,7 @@
 </ul>
 
 <ul><b>🍁Experiences</b><br>
- Google Developer Students Club Core Team Member<br>
+ Google Developer Student Clubs Core Team Member<br>
  TTurks Rocket Team( 7 months )
 
 </ul>
